@@ -1,8 +1,0 @@
-# placeholder; will be replaced in Step 5.2
-name: Build Post Queue (placeholder)
-on: workflow_dispatch
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Workflow placeholder"
