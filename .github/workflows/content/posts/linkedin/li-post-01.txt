@@ -1,0 +1,7 @@
+Stop guessing outreach.
+
+I built a ready-to-use Cold Outreach Kit: 200 templates across 5 categories + a plug-and-play mail-merge sheet.
+
+Perfect for freelancers, SaaS, local biz, creators, and job seekers.
+
+👉 See the kit: {{SITE_URL}}
